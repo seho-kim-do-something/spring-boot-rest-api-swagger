@@ -13,7 +13,7 @@ Logging is enabled.
 Will be included using Mockito
 
 ### TODOs ###
-Unit tests will be included using Mockito
+Unit tests
 
 API authentication
 
